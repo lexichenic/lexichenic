@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lexichenic
 - 🌱 I’m currently learning coding for meta-analysis
-- 📫 How to reach me: lexichen@outlook.com
+- 📫 How to reach me: lexichen0407@outlook.com
 
 <!---
 lexichenic/lexichenic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
